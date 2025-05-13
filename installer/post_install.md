@@ -1,6 +1,4 @@
-
 **`stealth/docs/api_reference.md`**
-```markdown
 # Stealth API Reference
 
 Version: 0.1.0 (as per Python API)
